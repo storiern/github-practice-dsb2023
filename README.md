@@ -31,7 +31,7 @@
 |04|Harry Heo       | harryheo1 |        |2023-05-11 |
 |05|Deven Jobanputra       | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |06|Youngik Joo| LeoJoo1012 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|07|Ori Stern| Storiern |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|07|Ori Stern| Storiern |<https://github.com/storiern/my_website>   |<https://oris-portfolio-website.netlify.app/>        |2023-06-08 |
 |08| Joaomiguelgcrp      | jpereira.mfa2023@london.edu |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |09| Nikita Reid      | NikitaReid |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_website>   |<https://ronapat-portfolio.netlify.app/>        |2023-05-11 |
